@@ -6,6 +6,8 @@ Thank you for checking my github.
 - videogames 🎮
 - foods 🍜
 - soccer ⚽
+- numbers 🎲
+- keyboards 
 
 <h2> Languages: </h2>
 
