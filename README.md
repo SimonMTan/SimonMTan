@@ -1,4 +1,5 @@
-### Hi there 👋I am Simon Tan , Thank you for checking my github.
+### Hi there 👋 I am Simon Tan from BayArea 
+Thank you for checking my github.
 
 ## My Passions 
 - coding 💻
