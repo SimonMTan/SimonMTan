@@ -14,7 +14,6 @@ Thank you for checking my github.
 <h3> Backend: </h3>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%2307405e.svg?style=for-the-badge&logo=express&logoColor=green)
 
 <h3> Frontend: </h3>
