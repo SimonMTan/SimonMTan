@@ -27,6 +27,8 @@
 <h3> Database: </h3>
 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=SQL&logoColor=red)
+![sqlalchemy](https://img.shields.io/badge/SQLAlchemy-4169E1?style=for-the-badge&logo=SQL&logoColor=pink)
 
 
 ## Contact
