@@ -30,6 +30,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=SQL&logoColor=red)
 ![sqlalchemy](https://img.shields.io/badge/SQLAlchemy-4169E1?style=for-the-badge&logo=SQL&logoColor=pink)
 
+<h3> Hosting </h3>
+
+- Heroku
+- render
 
 ## Contact
 <img src=https://i.imgur.com/2ffGJqj.png width=20> [LinkedIn](https://www.linkedin.com/in/simonmtan/)
