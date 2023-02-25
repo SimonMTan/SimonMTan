@@ -9,7 +9,10 @@ I am Front-End Developer who love React and JavaScript!
 *   🌍  I'm based in San Francisco, CA
 *   🖥️  See my portfolio at [My Portfolio](http://simonmtan.github.io)
 *   ✉️  You can contact me at [contact.simontan@gmail.com](mailto:contact.simontan@gmail.com)
-*   🧠  I'm learning TypeScript and GraphQL### Skills 
+*   🧠  I'm learning TypeScript and GraphQL
+
+### Skills 
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -27,7 +30,7 @@ I am Front-End Developer who love React and JavaScript!
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
-<h3> other tools </h3>
+<h3> Other tools </h3>
 
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
